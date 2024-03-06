@@ -39,7 +39,9 @@ Install other required packages.
     - https://pan.baidu.com/s/15YdmJRvagPzKcUNWBloiHA 
     - Access code: 1234  
     
-(b) Run: test.sh  
+(b) Put the testing model in snapshots/stmtrack-googlenet-got-train;
+
+(c) Run: test.sh  
 
 ## 5. Cite
 ```
