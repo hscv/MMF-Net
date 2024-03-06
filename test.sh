@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 nohup python -u main/test.py --config experiments/stmtrack/test/otb/stmtrack-googlenet-otb.yaml --root_dir /data/lizf/HOT/dataset/test/test_HSI/ --snapshot snapshots/stmtrack-googlenet-got-train/final_model.pkl > nohup.test.log 2>&1 &
