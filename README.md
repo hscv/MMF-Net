@@ -1,6 +1,6 @@
-# Quick Start
++ The soure code of the paper "Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking".
 
-## 0. The soure code of the paper "Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking".
+# Quick Start
 
 ## 1. Environment Setting
 The environment configuration follows https://github.com/fzh0917/STMTrack.
