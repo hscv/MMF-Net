@@ -1,3 +1,5 @@
+## The soure code of the paper "Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking".
+
 # Quick Start
 
 ## 1. Environment Setting
