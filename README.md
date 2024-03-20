@@ -61,4 +61,4 @@ Install other required packages.
 
 ## 6. Concat
 * lizhuanfeng@njust.edu.cn;
-* If you have any questions, just concat me.
+* If you have any questions, just contact me.
